@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/KilianSeibold/KS-WebSite-spectral)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
 Find the original non-jekyll theme at: http://html5up.net/
